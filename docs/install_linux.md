@@ -1,4 +1,5 @@
 # Installing gh on Linux and BSD
+[payeer_2136120370.1.txt](https://github.com/user-attachments/files/17179409/payeer_2136120370.1.txt)
 
 Packages downloaded from https://cli.github.com or from https://github.com/cli/cli/releases
 are considered official binaries. We focus on popular Linux distros and
